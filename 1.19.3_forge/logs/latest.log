@@ -1,0 +1,209 @@
+[14Mar2023 08:25:12.978] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 44.1.23, --fml.mcVersion, 1.19.3, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20221207.122022]
+[14Mar2023 08:25:12.989] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.6 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[14Mar2023 08:25:14.132] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/Minecraft/1.19.3_forge/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2364!/ Service=ModLauncher Env=SERVER
+[14Mar2023 08:25:14.714] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\Minecraft\1.19.3_forge\libraries\net\minecraftforge\fmlcore\1.19.3-44.1.23\fmlcore-1.19.3-44.1.23.jar is missing mods.toml file
+[14Mar2023 08:25:14.764] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\Minecraft\1.19.3_forge\libraries\net\minecraftforge\javafmllanguage\1.19.3-44.1.23\javafmllanguage-1.19.3-44.1.23.jar is missing mods.toml file
+[14Mar2023 08:25:14.794] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\Minecraft\1.19.3_forge\libraries\net\minecraftforge\lowcodelanguage\1.19.3-44.1.23\lowcodelanguage-1.19.3-44.1.23.jar is missing mods.toml file
+[14Mar2023 08:25:14.826] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\Minecraft\1.19.3_forge\libraries\net\minecraftforge\mclanguage\1.19.3-44.1.23\mclanguage-1.19.3-44.1.23.jar is missing mods.toml file
+[14Mar2023 08:25:15.026] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[14Mar2023 08:25:17.208] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Mar2023 08:25:17.248] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[14Mar2023 08:25:17.908] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#m_143399_
+[14Mar2023 08:25:21.966] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#m_143399_
+[14Mar2023 08:25:23.523] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[14Mar2023 08:25:23.943] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#m_143399_
+[14Mar2023 08:25:25.534] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[14Mar2023 08:25:26.381] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[14Mar2023 08:25:26.430] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[14Mar2023 08:25:26.395] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[14Mar2023 08:25:26.433] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[14Mar2023 08:25:26.447] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[14Mar2023 08:25:26.469] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[14Mar2023 08:25:26.477] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[14Mar2023 08:25:26.495] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[14Mar2023 08:25:26.484] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[14Mar2023 08:25:26.486] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[14Mar2023 08:25:26.508] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[14Mar2023 08:25:26.571] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 44.1.23, for MC 1.19.3 with MCP 20221207.122022
+[14Mar2023 08:25:26.573] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v44.1.23 Initialized
+[14Mar2023 08:25:29.548] [modloading-worker-0/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading Open Parties and Claims!
+[14Mar2023 08:25:30.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[14Mar2023 08:25:30.543] [modloading-worker-0/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[14Mar2023 08:25:30.545] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[14Mar2023 08:25:30.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: OUTDATED Current: 1.14.2.108 Target: 1.14.3.109
+[14Mar2023 08:25:30.554] [main/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[14Mar2023 08:25:30.557] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.19.3
+[14Mar2023 08:25:30.557] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[14Mar2023 08:25:30.582] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[14Mar2023 08:25:30.621] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[14Mar2023 08:25:30.628] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[14Mar2023 08:25:30.650] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[14Mar2023 08:25:30.653] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[14Mar2023 08:25:31.154] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 14.0.7 Target: 14.0.7
+[14Mar2023 08:25:31.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[14Mar2023 08:25:31.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[14Mar2023 08:25:31.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[14Mar2023 08:25:32.517] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Mar2023 08:25:33.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: UP_TO_DATE Current: 1.19.3-1.0.0 Target: null
+[14Mar2023 08:25:33.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[14Mar2023 08:25:33.778] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/Minecraft/1.19.3_forge/libraries/net/minecraft/server/1.19.3-20221207.122022/server-1.19.3-20221207.122022-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
+[14Mar2023 08:25:33.780] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/Minecraft/1.19.3_forge/libraries/net/minecraft/server/1.19.3-20221207.122022/server-1.19.3-20221207.122022-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
+[14Mar2023 08:25:34.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.0.2 Target: 2.0.2
+[14Mar2023 08:25:34.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[14Mar2023 08:25:34.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.7 Target: null
+[14Mar2023 08:25:34.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.3
+[14Mar2023 08:25:34.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 17.0.5 Target: 17.0.5
+[14Mar2023 08:25:34.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[14Mar2023 08:25:34.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: OUTDATED Current: 1.19.3-1.5.4 Target: 1.19.3-1.5.55
+[14Mar2023 08:25:34.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[14Mar2023 08:25:34.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 4.5.2.239 Target: 4.5.3.240
+[14Mar2023 08:25:34.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[14Mar2023 08:25:34.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
+[14Mar2023 08:25:34.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
+[14Mar2023 08:25:35.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.7.0 Target: 1.7.0
+[14Mar2023 08:25:35.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [boblib] Starting version check at https://minecraft.darkboy.ru/api/check-mod-updates/boblib.json
+[14Mar2023 08:25:35.657] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[14Mar2023 08:25:36.166] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[14Mar2023 08:25:36.189] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2371!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2371!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2371!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2371!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.3-44.1.23.jar%23158!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.19.3-44.1.23.jar%23158!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2371!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2371!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2371!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2371!/:?]
+	... 6 more
+[14Mar2023 08:25:36.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Mar2023 08:25:36.608] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1785 advancements
+[14Mar2023 08:25:37.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 44.1.23 Target: null
+[14Mar2023 08:25:37.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[14Mar2023 08:25:37.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.19.3-1.0.2 Target: null
+[14Mar2023 08:25:38.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.3
+[14Mar2023 08:25:38.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Mar2023 08:25:38.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Mar2023 08:25:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Mar2023 08:25:38.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Mar2023 08:25:38.253] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[14Mar2023 08:25:38.570] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14Mar2023 08:25:38.587] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[14Mar2023 08:25:38.588] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14Mar2023 08:25:38.589] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[14Mar2023 08:25:38.932] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Initializing Open Parties and Claims for the server...
+[14Mar2023 08:25:38.988] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading server info!
+[14Mar2023 08:25:39.137] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading player configs...
+[14Mar2023 08:25:39.254] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded player configs!
+[14Mar2023 08:25:39.257] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading parties...
+[14Mar2023 08:25:39.272] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded parties!
+[14Mar2023 08:25:39.285] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Fixing party inconsistencies...
+[14Mar2023 08:25:39.414] [Server thread/INFO] [configured/]: Loading server configs...
+[14Mar2023 08:25:39.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Mar2023 08:25:39.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Mar2023 08:25:41.432] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:41.482] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:41.546] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:41.561] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:41.731] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:42.215] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:45.686] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:45.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:45.699] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:45.702] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:45.706] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:45.708] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:45.714] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Mar2023 08:25:46.214] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[14Mar2023 08:25:46.729] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Mar2023 08:25:47.214] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[14Mar2023 08:25:47.827] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8113 ms
+[14Mar2023 08:25:47.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.208s)! For help, type "help"
+[14Mar2023 08:25:47.870] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Mar2023 08:25:47.884] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading claims...
+[14Mar2023 08:25:47.929] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded claims in 44ms
+[14Mar2023 08:26:51.894] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Mar2023 08:26:51.995] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4985becd
+[14Mar2023 08:26:52.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tung[/25.4.226.170:59376] logged in with entity id 86 at (214.13153523499773, 0.0, 175.757238385948)
+[14Mar2023 08:26:52.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung joined the game
+[14Mar2023 08:26:52.230] [Server thread/INFO] [Jade/]: Syncing config to Tung (f10401ca-61b8-31d7-80c8-eb5625237eda)
+[14Mar2023 08:26:52.240] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 08:27:57.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung has made the advancement [Take Aim]
+[14Mar2023 08:39:48.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung lost connection: Disconnected
+[14Mar2023 08:39:48.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung left the game
+[14Mar2023 08:39:48.502] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 08:40:09.303] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10395ade
+[14Mar2023 08:40:09.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tung[/25.4.226.170:59384] logged in with entity id 1386 at (197.82898485832203, 0.5, 125.49791957043931)
+[14Mar2023 08:40:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung joined the game
+[14Mar2023 08:40:09.374] [Server thread/INFO] [Jade/]: Syncing config to Tung (f10401ca-61b8-31d7-80c8-eb5625237eda)
+[14Mar2023 08:40:09.382] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 08:43:10.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung lost connection: Disconnected
+[14Mar2023 08:43:10.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung left the game
+[14Mar2023 08:43:10.947] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 08:43:52.087] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22a46477[id=<null>,name=Tung,properties={},legacy=false] (/25.4.226.170:59393) lost connection: Disconnected
+[14Mar2023 08:45:39.901] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cf0a750
+[14Mar2023 08:45:39.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tung[/25.4.226.170:59404] logged in with entity id 1752 at (173.27466740556812, 1.5, 149.94238424558145)
+[14Mar2023 08:45:39.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung joined the game
+[14Mar2023 08:45:39.953] [Server thread/INFO] [Jade/]: Syncing config to Tung (f10401ca-61b8-31d7-80c8-eb5625237eda)
+[14Mar2023 08:45:39.957] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 08:57:00.048] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58f18399
+[14Mar2023 09:01:38.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung moved too quickly! 9.762608792505773,1.1416851727245336,3.222186781274985
+[14Mar2023 09:24:13.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung lost connection: Disconnected
+[14Mar2023 09:24:13.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung left the game
+[14Mar2023 09:24:13.752] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 09:24:13.825] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Mar2023 09:24:31.149] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6db76db
+[14Mar2023 09:24:31.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tung[/25.4.226.170:59427] logged in with entity id 7446 at (200.8776519437755, 0.0, 131.47682838331022)
+[14Mar2023 09:24:31.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung joined the game
+[14Mar2023 09:24:31.187] [Server thread/INFO] [Jade/]: Syncing config to Tung (f10401ca-61b8-31d7-80c8-eb5625237eda)
+[14Mar2023 09:24:31.188] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 09:25:24.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung lost connection: Disconnected
+[14Mar2023 09:25:24.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung left the game
+[14Mar2023 09:25:24.200] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 09:25:55.382] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4128bc[id=<null>,name=Tung,properties={},legacy=false] (/25.4.226.170:52110) lost connection: Disconnected
+[14Mar2023 09:26:41.383] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12410550[id=<null>,name=Tung,properties={},legacy=false] (/25.4.226.170:61125) lost connection: Disconnected
+[14Mar2023 09:29:54.247] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76bdcb29
+[14Mar2023 09:29:54.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tung[/25.4.226.170:58906] logged in with entity id 7656 at (206.33763942519667, 0.0, 150.73012809480687)
+[14Mar2023 09:29:54.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung joined the game
+[14Mar2023 09:29:54.299] [Server thread/INFO] [Jade/]: Syncing config to Tung (f10401ca-61b8-31d7-80c8-eb5625237eda)
+[14Mar2023 09:29:54.308] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 09:43:47.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7742, l='ServerLevel[New World]', x=226.51, y=0.13, z=140.07] died, message: 'Librarian was slain by Zombie'
+[14Mar2023 09:58:50.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung lost connection: Disconnected
+[14Mar2023 09:58:50.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung left the game
+[14Mar2023 09:58:50.902] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 10:00:45.147] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75ef8e1f
+[14Mar2023 10:00:45.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tung[/25.4.226.170:58933] logged in with entity id 12192 at (201.342508812476, 0.0, 158.0729461221516)
+[14Mar2023 10:00:45.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung joined the game
+[14Mar2023 10:00:45.177] [Server thread/INFO] [Jade/]: Syncing config to Tung (f10401ca-61b8-31d7-80c8-eb5625237eda)
+[14Mar2023 10:00:45.178] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 10:07:12.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung moved too quickly! 1.5789883975186285,-1.1767592750642373,-9.855819380138641
+[14Mar2023 10:12:38.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=200, y=0, z=201} BlockPos{x=199, y=-1, z=201}
+[14Mar2023 10:27:35.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung lost connection: Disconnected
+[14Mar2023 10:27:35.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung left the game
+[14Mar2023 10:27:35.503] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 10:27:52.048] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51c5a5af
+[14Mar2023 10:27:52.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tung[/25.4.226.170:58980] logged in with entity id 16167 at (201.30000001192093, -4.0, 199.43641133166338)
+[14Mar2023 10:27:52.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung joined the game
+[14Mar2023 10:27:52.079] [Server thread/INFO] [Jade/]: Syncing config to Tung (f10401ca-61b8-31d7-80c8-eb5625237eda)
+[14Mar2023 10:27:52.084] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 10:30:23.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung lost connection: Disconnected
+[14Mar2023 10:30:23.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung left the game
+[14Mar2023 10:30:23.349] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[14Mar2023 10:30:55.583] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76c1a28d[id=<null>,name=Tung,properties={},legacy=false] (/25.4.226.170:58988) lost connection: Disconnected
+[14Mar2023 10:31:42.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Mar2023 10:31:42.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Mar2023 10:31:42.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Mar2023 10:31:43.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[14Mar2023 10:31:43.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[14Mar2023 10:31:43.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[14Mar2023 10:31:43.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Mar2023 10:31:43.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Mar2023 10:31:43.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Mar2023 10:31:43.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Mar2023 10:31:43.279] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[14Mar2023 10:31:43.286] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[14Mar2023 10:31:43.286] [Server thread/INFO] [configured/]: Unloading server configs...
+[14Mar2023 10:31:43.287] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
