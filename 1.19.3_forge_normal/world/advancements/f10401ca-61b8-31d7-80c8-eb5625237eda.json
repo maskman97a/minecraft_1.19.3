@@ -1,0 +1,37 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-03-19 15:50:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2023-03-19 15:56:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2023-03-19 15:56:23 +0700"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2023-03-19 15:50:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands": "2023-03-19 15:50:04 +0700",
+      "minecraft:badlands": "2023-03-19 15:57:25 +0700",
+      "minecraft:sparse_jungle": "2023-03-19 15:52:07 +0700",
+      "minecraft:savanna": "2023-03-19 15:53:39 +0700",
+      "minecraft:plains": "2023-03-19 15:53:00 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}
