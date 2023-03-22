@@ -181,3 +181,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Mar2023 16:53:33.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung lost connection: Disconnected
 [22Mar2023 16:53:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung left the game
 [22Mar2023 16:53:33.389] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[22Mar2023 16:58:27.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Mar2023 16:58:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Mar2023 16:58:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Mar2023 16:58:28.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[22Mar2023 16:58:29.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[22Mar2023 16:58:29.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[22Mar2023 16:58:29.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Mar2023 16:58:29.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Mar2023 16:58:29.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Mar2023 16:58:29.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Mar2023 16:58:29.180] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[22Mar2023 16:58:29.190] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[22Mar2023 16:58:29.190] [Server thread/INFO] [configured/]: Unloading server configs...
+[22Mar2023 16:58:29.191] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
