@@ -406,3 +406,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [31Mar2023 16:57:50.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tung lost connection: Disconnected
 [31Mar2023 16:57:50.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tung left the game
 [31Mar2023 16:57:50.916] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f10401ca-61b8-31d7-80c8-eb5625237eda
+[31Mar2023 17:00:04.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2023 17:00:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2023 17:00:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2023 17:00:04.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Oneblock Original v2.0.0]'/minecraft:overworld
+[31Mar2023 17:00:04.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Oneblock Original v2.0.0]'/minecraft:the_end
+[31Mar2023 17:00:04.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Oneblock Original v2.0.0]'/minecraft:the_nether
+[31Mar2023 17:00:04.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Mar2023 17:00:04.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2023 17:00:04.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2023 17:00:04.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Mar2023 17:00:04.982] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[31Mar2023 17:00:04.990] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[31Mar2023 17:00:04.990] [Server thread/INFO] [configured/]: Unloading server configs...
+[31Mar2023 17:00:04.991] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
