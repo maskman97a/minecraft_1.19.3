@@ -1649,6 +1649,12 @@
     },
     "done": true
   },
+  "obs:ob/dirt_4": {
+    "criteria": {
+      "phase1": "2023-03-31 23:27:56 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2023-03-31 12:44:32 +0700"
@@ -1676,6 +1682,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2023-03-31 12:44:32 +0700"
+    },
+    "done": true
+  },
+  "obs:ob/dirt_3": {
+    "criteria": {
+      "phase1": "2023-03-31 21:58:33 +0700"
     },
     "done": true
   },
@@ -2486,6 +2498,12 @@
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_the_recipe": "2023-03-31 12:44:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2023-03-31 22:41:41 +0700"
     },
     "done": true
   },
@@ -3709,6 +3727,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2023-03-31 12:44:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-03-31 22:31:31 +0700"
     },
     "done": true
   },
@@ -6856,6 +6880,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2023-03-31 23:01:31 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_the_recipe": "2023-03-31 12:44:32 +0700"
@@ -8312,6 +8342,7 @@
     "criteria": {
       "minecraft:forest": "2023-03-31 13:08:05 +0700",
       "minecraft:taiga": "2023-03-31 14:54:09 +0700",
+      "minecraft:snowy_taiga": "2023-03-31 23:30:23 +0700",
       "minecraft:plains": "2023-03-31 12:44:32 +0700"
     },
     "done": false
@@ -8502,9 +8533,27 @@
     },
     "done": true
   },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "phase1": "2023-03-31 21:50:00 +0700"
+    },
+    "done": true
+  },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "phase1": "2023-03-31 22:11:41 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2023-03-31 12:44:32 +0700"
+    },
+    "done": true
+  },
+  "obs:phases/phase_9": {
+    "criteria": {
+      "phase1": "2023-03-31 23:33:26 +0700"
     },
     "done": true
   },
@@ -9078,6 +9127,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-03-31 21:52:01 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2023-03-31 12:44:32 +0700"
@@ -9201,6 +9256,12 @@
   "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
     "criteria": {
       "has_the_recipe": "2023-03-31 12:44:32 +0700"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "cobble": "2023-03-31 21:52:01 +0700"
     },
     "done": true
   },
