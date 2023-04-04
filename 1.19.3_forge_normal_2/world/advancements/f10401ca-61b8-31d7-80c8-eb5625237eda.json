@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-04-04 08:39:03 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2023-04-03 08:44:33 +0700"
@@ -1091,6 +1097,12 @@
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2023-04-03 12:41:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2023-04-04 08:39:03 +0700"
     },
     "done": true
   },
@@ -3407,6 +3419,12 @@
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2023-04-03 08:44:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-04-04 08:39:03 +0700"
     },
     "done": true
   },
