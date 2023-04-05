@@ -1231,6 +1231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-04-05 22:32:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-04-03 14:44:58 +0700"
@@ -1342,6 +1348,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-03 09:11:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2023-04-05 22:32:39 +0700"
     },
     "done": true
   },
@@ -2933,6 +2945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-04-05 22:32:39 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2023-04-03 08:26:06 +0700"
@@ -3545,6 +3563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-04-05 22:32:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2023-04-02 20:44:56 +0700"
@@ -3833,6 +3857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2023-04-05 22:07:19 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2023-04-02 20:56:52 +0700"
@@ -3940,6 +3970,12 @@
       "has_stone": "2023-04-03 08:26:25 +0700"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:british_shorthair": "2023-04-05 22:35:14 +0700"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
