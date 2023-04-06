@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2023-04-03 14:44:58 +0700"
@@ -203,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:52:43 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2023-04-02 20:50:14 +0700"
@@ -212,6 +224,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2023-04-03 14:45:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2023-04-06 09:06:28 +0700"
     },
     "done": true
   },
@@ -248,6 +266,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-04-04 15:31:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:52:43 +0700"
     },
     "done": true
   },
@@ -305,6 +329,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2023-04-03 11:28:05 +0700"
@@ -314,6 +344,18 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-04-04 15:06:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-04-06 09:43:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
     },
     "done": true
   },
@@ -344,6 +386,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2023-04-03 14:11:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:52:43 +0700"
     },
     "done": true
   },
@@ -455,6 +503,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_desk": {
     "criteria": {
       "has_planks": "2023-04-02 20:44:39 +0700"
@@ -470,6 +530,12 @@
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_gate": "2023-04-03 08:54:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2023-04-06 09:10:50 +0700"
     },
     "done": true
   },
@@ -611,6 +677,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-04-03 08:26:42 +0700"
@@ -626,6 +698,12 @@
   "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
       "has_log": "2023-04-03 12:41:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-04-06 09:42:15 +0700"
     },
     "done": true
   },
@@ -701,6 +779,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_mail_box": {
     "criteria": {
       "has_chest": "2023-04-03 08:26:42 +0700"
@@ -764,6 +848,12 @@
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-04-04 15:31:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:31:48 +0700"
     },
     "done": true
   },
@@ -867,10 +957,14 @@
     "criteria": {
       "minecraft:pillager": "2023-04-04 13:48:29 +0700",
       "minecraft:skeleton": "2023-04-03 10:18:53 +0700",
+      "minecraft:ravager": "2023-04-06 15:19:03 +0700",
       "minecraft:vindicator": "2023-04-04 14:04:00 +0700",
       "minecraft:spider": "2023-04-03 11:55:04 +0700",
       "minecraft:creeper": "2023-04-05 16:09:21 +0700",
+      "minecraft:evoker": "2023-04-06 15:24:05 +0700",
       "minecraft:witch": "2023-04-05 14:13:35 +0700",
+      "minecraft:husk": "2023-04-06 15:13:30 +0700",
+      "minecraft:vex": "2023-04-06 13:44:19 +0700",
       "minecraft:zombie": "2023-04-03 11:37:47 +0700",
       "minecraft:drowned": "2023-04-05 15:11:49 +0700",
       "minecraft:zombie_villager": "2023-04-03 13:26:17 +0700"
@@ -1012,6 +1106,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2023-04-05 07:54:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:52:43 +0700"
     },
     "done": true
   },
@@ -1279,9 +1379,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2023-04-05 14:54:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2023-04-06 11:42:32 +0700"
     },
     "done": true
   },
@@ -1300,6 +1412,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2023-04-03 08:30:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:31:48 +0700"
     },
     "done": true
   },
@@ -1336,6 +1454,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2023-04-03 08:18:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-04-06 09:10:50 +0700"
     },
     "done": true
   },
@@ -1447,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-04-06 13:41:30 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2023-04-02 20:44:39 +0700"
@@ -1492,6 +1622,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2023-04-03 12:41:41 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
     },
     "done": true
   },
@@ -1543,6 +1679,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:31:48 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-04-03 08:26:42 +0700"
@@ -1588,6 +1736,12 @@
   "cfm:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_log": "2023-04-03 08:26:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:52:43 +0700"
     },
     "done": true
   },
@@ -1660,6 +1814,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2023-04-05 15:30:13 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
     },
     "done": true
   },
@@ -1911,6 +2071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-04-06 09:42:15 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2023-04-03 08:30:38 +0700"
@@ -2133,6 +2299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-04-06 09:42:15 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-04-03 14:11:29 +0700"
@@ -2145,6 +2317,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:31:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2023-04-02 20:45:05 +0700"
@@ -2154,6 +2338,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2023-04-03 08:32:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2023-04-06 13:46:54 +0700"
     },
     "done": true
   },
@@ -2190,6 +2380,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2023-04-03 08:30:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-04-06 09:42:15 +0700"
     },
     "done": true
   },
@@ -2403,14 +2599,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-04-06 12:17:28 +0700",
+      "chicken": "2023-04-06 14:39:55 +0700",
       "cooked_mutton": "2023-04-03 08:49:55 +0700",
       "cooked_beef": "2023-04-03 09:45:03 +0700",
       "apple": "2023-04-03 08:15:44 +0700",
       "potato": "2023-04-03 08:15:49 +0700",
       "pumpkin_pie": "2023-04-03 15:04:48 +0700",
-      "bread": "2023-04-03 08:32:39 +0700"
+      "bread": "2023-04-03 08:32:39 +0700",
+      "golden_apple": "2023-04-06 15:40:15 +0700",
+      "cookie": "2023-04-06 14:40:03 +0700"
     },
     "done": false
   },
@@ -2480,6 +2686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:31:48 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2023-04-03 08:26:06 +0700"
@@ -2543,6 +2755,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-04-03 08:26:42 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:33:39 +0700"
     },
     "done": true
   },
@@ -2897,6 +3115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2023-04-03 08:54:36 +0700"
@@ -3017,9 +3241,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-04-06 09:43:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-04-06 13:41:30 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-04-03 14:39:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:52:43 +0700"
     },
     "done": true
   },
@@ -3047,6 +3295,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2023-04-03 08:15:41 +0700"
@@ -3062,6 +3316,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2023-04-02 20:56:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:52:43 +0700"
     },
     "done": true
   },
@@ -3098,6 +3358,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-04-03 08:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:31:48 +0700"
     },
     "done": true
   },
@@ -3188,6 +3454,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-04-03 14:11:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:31:48 +0700"
     },
     "done": true
   },
@@ -3425,6 +3697,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2023-04-03 08:26:42 +0700"
@@ -3464,6 +3742,12 @@
   "minecraft:recipes/misc/ice_from_freezing": {
     "criteria": {
       "has_water": "2023-04-03 08:44:37 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:33:39 +0700"
     },
     "done": true
   },
@@ -3524,6 +3808,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-04-03 14:44:58 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
     },
     "done": true
   },
@@ -3683,6 +3973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:52:43 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-04-03 08:26:42 +0700"
@@ -3743,6 +4039,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-04-06 09:43:36 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2023-04-03 08:44:33 +0700"
@@ -3785,6 +4093,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2023-04-03 08:26:42 +0700"
@@ -3812,6 +4126,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2023-04-03 14:52:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:31:48 +0700"
     },
     "done": true
   },
@@ -3860,6 +4180,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2023-04-05 22:07:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-04-06 12:34:53 +0700"
     },
     "done": true
   },
@@ -3935,6 +4261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:31:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2023-04-03 14:35:40 +0700"
@@ -3971,11 +4303,23 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:british_shorthair": "2023-04-05 22:35:14 +0700"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2023-04-06 13:33:39 +0700"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
@@ -3998,6 +4342,12 @@
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2023-04-03 08:54:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-04-06 09:42:15 +0700"
     },
     "done": true
   },
@@ -4034,6 +4384,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-04-02 20:55:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-04-06 13:52:43 +0700"
     },
     "done": true
   },
