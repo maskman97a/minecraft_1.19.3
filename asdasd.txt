@@ -4,3 +4,7 @@ paxi
 better fps
 server performance
 straw golem
+
+smooth boot 
+easy magic
+easy anvil
